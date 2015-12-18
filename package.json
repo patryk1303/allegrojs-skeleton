@@ -1,0 +1,27 @@
+{
+  "name": "allegrojs-skeleton",
+  "version": "0.1.0",
+  "description": "Object oriented skeleton for allegro.js (http://allegrojs.net/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://patryk1303@github.com/patryk1303/allegrojs-skeleton.git"
+  },
+  "keywords": [
+    "game",
+    "gamedev",
+    "allegro",
+    "libraby",
+    "typescript"
+  ],
+  "author": "Patryk Wychowaniec",
+  "license": "Giftware",
+  "bugs": {
+    "url": "https://github.com/patryk1303/allegrojs-skeleton/issues"
+  },
+  "homepage": "https://github.com/patryk1303/allegrojs-skeleton",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.10.0"
+  }
+}

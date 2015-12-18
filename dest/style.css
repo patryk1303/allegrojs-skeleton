@@ -1,0 +1,10 @@
+body {
+	background-color: dimgrey;
+}
+
+#game {
+	margin: 15px auto;
+	display: block;
+	border: 3px dotted lightgray;
+	border-radius: 11px;
+}
